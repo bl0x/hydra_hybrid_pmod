@@ -18,7 +18,5 @@ fp-info-cache
 *.dsn
 *.ses
 *.xml
-*.pdf
 *.gbr
-*.png
 *.gbrjob
